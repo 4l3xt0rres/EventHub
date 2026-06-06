@@ -1,0 +1,13 @@
+{
+  "curso": "Ciência da Computação",
+  "disciplina": "Projeto de Programação",
+  "tema_escolhido": "6",
+  "linguagem": "Java",
+  "gerenciador_dependencias": "Maven",
+  "integrantes": [
+    {"nome": "Enrique Echazarra da Silva", "github_username": "Chappiefull"},
+    {"nome": "Cristian Barbosa Brandão", "github_username": "Cristian404-dev"},
+    {"nome": "Alexsandro dos Santos Torres Filho", "github_username": "4l3xt0rres"},
+    {"nome": "Caio Cavalcante de Barros Portela", "github_username": "caioportela-jpg"}
+  ]
+}
